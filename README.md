@@ -80,9 +80,7 @@ namespace Residence
                 Console.Write("Room number: ");
                 int room = int.Parse(Console.ReadLine());
                 vect[room] = new Student(name, email);
-
             }
-
             Console.WriteLine();
             Console.WriteLine("Rented Rooms: ");
             for (int i = 0; i < 10; i++)
