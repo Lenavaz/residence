@@ -1,5 +1,5 @@
 # Student Residence
-C# arrays project
+## C# arrays project
 
 The owner of a residence has ten rooms to rent to students, with the rooms identified by numbers 0 to 9.
 When a student wishes to rent a room, the name and email of the student must be recorded.
