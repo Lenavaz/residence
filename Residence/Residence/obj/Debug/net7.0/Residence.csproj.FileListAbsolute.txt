@@ -1,0 +1,15 @@
+C:\Users\lenav\source\repos\Residence\Residence\obj\Debug\net7.0\Residence.csproj.AssemblyReference.cache
+C:\Users\lenav\source\repos\Residence\Residence\obj\Debug\net7.0\Residence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenav\source\repos\Residence\Residence\obj\Debug\net7.0\Residence.AssemblyInfoInputs.cache
+C:\Users\lenav\source\repos\Residence\Residence\obj\Debug\net7.0\Residence.AssemblyInfo.cs
+C:\Users\lenav\source\repos\Residence\Residence\obj\Debug\net7.0\Residence.csproj.CoreCompileInputs.cache
+C:\Users\lenav\source\repos\Residence\Residence\bin\Debug\net7.0\Residence.exe
+C:\Users\lenav\source\repos\Residence\Residence\bin\Debug\net7.0\Residence.deps.json
+C:\Users\lenav\source\repos\Residence\Residence\bin\Debug\net7.0\Residence.runtimeconfig.json
+C:\Users\lenav\source\repos\Residence\Residence\bin\Debug\net7.0\Residence.dll
+C:\Users\lenav\source\repos\Residence\Residence\bin\Debug\net7.0\Residence.pdb
+C:\Users\lenav\source\repos\Residence\Residence\obj\Debug\net7.0\Residence.dll
+C:\Users\lenav\source\repos\Residence\Residence\obj\Debug\net7.0\refint\Residence.dll
+C:\Users\lenav\source\repos\Residence\Residence\obj\Debug\net7.0\Residence.pdb
+C:\Users\lenav\source\repos\Residence\Residence\obj\Debug\net7.0\Residence.genruntimeconfig.cache
+C:\Users\lenav\source\repos\Residence\Residence\obj\Debug\net7.0\ref\Residence.dll
