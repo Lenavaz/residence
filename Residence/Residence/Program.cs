@@ -17,16 +17,14 @@ namespace Residence
             {
                 Console.WriteLine();
                 Console.WriteLine($"Rent #{i}:");
-                Console.Write("Enter name: ");
+                Console.Write("Name: ");
                 string name = Console.ReadLine();
-                Console.Write("Enter email: ");
+                Console.Write("Email: ");
                 string email = Console.ReadLine();
                 Console.Write("Room number: ");
                 int room = int.Parse(Console.ReadLine());
                 vect[room] = new Student(name, email);
-
             }
-
             Console.WriteLine();
             Console.WriteLine("Rented Rooms: ");
             for (int i = 0; i < 10; i++)
